@@ -8,7 +8,7 @@
 ### Tasks
 
  1. Achieve Commentator badge on StackOverflow
- 2. For each study item you should:  
+ 2. For each study item and task you should:  
      - post an update to LinkedIn using #cs_internship #csharp  
      - post a tweet on Twitter using #cs_internship #csharp
  3. You should give a 20-min presentation about the content of this step, on Twitch platform.
